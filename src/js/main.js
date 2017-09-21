@@ -1,7 +1,7 @@
 import { sendAJAX, sortCityByName, displayListOfCity , searchCity } from './modules/city'
 import { timer } from './modules/time'
 
-let cityJSON = "https://raw.githubusercontent.com/smelukov/citiesTest/master/cities.json";
+let cityJSON = "cities.txt";
 let input = document.querySelector('.city__search');
 let button = document.querySelector('#getCityList');
 
@@ -35,6 +35,3 @@ window.addEventListener("load", () => {
 
     })
 });
-
-window.timer = timer;
-// timer(3000).then((time) => console.log(`я вывелась через ${time/1000} сек.`));
