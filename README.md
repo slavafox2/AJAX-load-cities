@@ -2,7 +2,7 @@
 (run app: bin/run.sh)
 
 
-![1](/imagesForReadMe//1.PNG)
+![1](/imagesForReadMe//1.png)
 
 
 ![1](/imagesForReadMe//1.PNG)
