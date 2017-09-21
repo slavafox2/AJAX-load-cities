@@ -1,4 +1,4 @@
-# simple load and display text data file in the widnow 
+## simple load and display text data file in the widnow 
 (run app: bin/run.sh)
 
 ### to push the "get" button.
